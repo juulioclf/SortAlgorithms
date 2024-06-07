@@ -1,0 +1,4 @@
+[2,3,5,7,9]
+[2,3]
+
+basicamente ele pega o i e vai vendo o proximo e troca

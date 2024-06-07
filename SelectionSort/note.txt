@@ -1,0 +1,2 @@
+seleciona sempre o menor numero 
+e no inicio
